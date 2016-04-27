@@ -6,6 +6,9 @@ NeoBundle 'Townk/vim-autoclose'
 NeoBundle 'tpope/vim-endwise'
 NeoBundle 'bronson/vim-trailing-whitespace'
 NeoBundle 'slim-template/vim-slim'
+NeoBundle 'kannokanno/previm'
+NeoBundle 'tyru/open-browser.vim'
+NeoBundle 'tomtom/tcomment_vim'
 
 call neobundle#end()
 filetype plugin indent on
