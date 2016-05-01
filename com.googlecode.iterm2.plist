@@ -84,6 +84,8 @@
 	<true/>
 	<key>MaxVertically</key>
 	<false/>
+	<key>NSFontPanelAttributes</key>
+	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/gits/dotfiles</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -111,10 +113,12 @@
 	<array/>
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
+	<key>NSWindow Frame NSFontPanel</key>
+	<string>814 247 445 103 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>251 183 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 17 1420 860 0 0 1440 877 </string>
+	<string>0 4 1440 873 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>183 68 1096 451 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -339,7 +343,7 @@
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
-			<string>Recycle</string>
+			<string>No</string>
 			<key>Default Bookmark</key>
 			<string>No</string>
 			<key>Disable Printing</key>
@@ -672,7 +676,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Monaco 10</string>
+			<string>Monaco 12</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -852,7 +856,7 @@
 	<key>NoSyncTimeOfLastPromo</key>
 	<real>483101113.65078998</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>483442936.665398</real>
+	<real>483717201.62652999</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -917,7 +921,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-04-27T09:42:10Z</date>
+	<date>2016-04-30T13:53:17Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1196,7 +1200,7 @@
 											<key>Custom Command</key>
 											<string>No</string>
 											<key>Custom Directory</key>
-											<string>Recycle</string>
+											<string>No</string>
 											<key>Default Bookmark</key>
 											<string>No</string>
 											<key>Disable Printing</key>
@@ -1529,7 +1533,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>Monaco 10</string>
+											<string>Monaco 12</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Prompt Before Closing 2</key>
@@ -1704,11 +1708,11 @@
 											<string>/Users/shogo</string>
 										</dict>
 										<key>Columns</key>
-										<integer>183</integer>
+										<integer>156</integer>
 										<key>Rows</key>
-										<integer>44</integer>
+										<integer>36</integer>
 										<key>Working Directory</key>
-										<string>/Users/shogo/gits</string>
+										<string>/Users/shogo</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
