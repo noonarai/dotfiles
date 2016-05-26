@@ -87,7 +87,7 @@
 	<key>NSFontPanelAttributes</key>
 	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/gits/dotfiles</string>
+	<string>~/workspace/dotfiles</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{995, 493}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -113,12 +113,19 @@
 	<array/>
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
+	<key>NSUserKeyEquivalents</key>
+	<dict>
+		<key>Select Next Tab</key>
+		<string>^]</string>
+		<key>Select Previous Tab</key>
+		<string>^[</string>
+	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>814 247 445 103 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>251 183 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>166 119 1108 642 0 0 1440 877 </string>
+	<string>0 4 1440 873 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>183 68 1096 451 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -690,7 +697,7 @@
 			<key>Scrollback Lines</key>
 			<integer>1000</integer>
 			<key>Scrollback With Status Bar</key>
-			<false/>
+			<true/>
 			<key>Scrollback in Alternate Screen</key>
 			<true/>
 			<key>Selected Text Color</key>
@@ -856,7 +863,7 @@
 	<key>NoSyncTimeOfLastPromo</key>
 	<real>483101113.65078998</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>483717201.62652999</real>
+	<real>484805213.188196</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -905,7 +912,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/shogo/gits/dotfiles</string>
+	<string>/Users/shogo/workspace/dotfiles</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -921,7 +928,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-04-30T13:53:17Z</date>
+	<date>2016-05-13T03:46:34Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>

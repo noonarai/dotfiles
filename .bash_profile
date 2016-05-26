@@ -1,5 +1,4 @@
 alias ll='ls -laG'
-alias vi='vim'
 export LSCOLORS=gxfxcxdxbxegedabagacad
 export LESSCHARSET=utf-8
 export LANG=ja_JP.UTF-8
