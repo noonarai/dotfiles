@@ -37,7 +37,6 @@ set incsearch       " 検索ワードの最初の文字を入力した時点で�
 set number          " 行番号表示
 set showmatch       " 対応する括弧を強調
 set hlsearch        " 検索結果をハイライト
-set cmdheight=2     " メッセージ表示欄を2行確保
 set laststatus=2    " エディタウィンドウの末尾から2行目にステータスラインを常時表示させる
 set wildmenu        " コマンドラインモードで<Tab>キーによるファイル名補完を有効にする
 set showcmd         " 入力中のコマンドを表示
