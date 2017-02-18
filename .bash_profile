@@ -1,6 +1,7 @@
 alias ll='ls -laG'
 alias dckc='docker-compose -f docker-compose.development.yml'
-alias dckc-run='docker-compose -f docker-compose.development.yml run --rm'
+alias dckcup='docker-compose -f docker-compose.development.yml up --build --force-recreate -d ; dckc ps'
+alias dckcrun='docker-compose -f docker-compose.development.yml run --rm'
 
 # lsの色
 export LSCOLORS=gxfxcxdxbxegedabagacad
