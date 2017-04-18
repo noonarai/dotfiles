@@ -16,6 +16,7 @@ NeoBundle 'tomtom/tcomment_vim'
 NeoBundle 'vim-scripts/AnsiEsc.vim'
 NeoBundle 'nathanaelkane/vim-indent-guides'
 NeoBundle 'junegunn/vim-easy-align'
+NeoBundle 'tpope/vim-fugitive'
 
 call neobundle#end()
 filetype plugin indent on
