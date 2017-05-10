@@ -61,7 +61,7 @@ local function remapKey(modifiers, key, keyCode)
    hs.hotkey.bind(modifiers, key, keyCode, nil, keyCode)
 end
 
-remapKey({'ctrl'}, 'h', keyCode('left'))
-remapKey({'ctrl'}, 'j', keyCode('down'))
-remapKey({'ctrl'}, 'k', keyCode('up'))
-remapKey({'ctrl'}, 'l', keyCode('right'))
+remapKey({'ctrl'}, 'b', keyCode('left'))
+remapKey({'ctrl'}, 'n', keyCode('down'))
+remapKey({'ctrl'}, 'p', keyCode('up'))
+remapKey({'ctrl'}, 'f', keyCode('right'))
