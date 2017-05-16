@@ -2,7 +2,8 @@ source ~/workspace/dotfiles/git-completion.bash
 
 alias ll='ls -laG'
 alias dkc='docker-compose'
-alias dkcup='dkc up --build --force-recreate -d ; dkc ps'
+alias dkcup='dkc up -d'
+alias dkcreup='dkc up --build --force-recreate -d'
 alias dkcrun='dkc run --rm'
 
 # lsの色

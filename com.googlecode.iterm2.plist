@@ -10,6 +10,14 @@
 	<integer>1</integer>
 	<key>Default Bookmark Guid</key>
 	<string>CE209EAB-BCF2-4760-88AF-2A9446844B66</string>
+	<key>Hotkey</key>
+	<true/>
+	<key>HotkeyChar</key>
+	<integer>105</integer>
+	<key>HotkeyCode</key>
+	<integer>34</integer>
+	<key>HotkeyModifiers</key>
+	<integer>262401</integer>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
@@ -47,10 +55,15 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>45 324 918 498 0 0 1440 877 </string>
+	<string>45 293 918 498 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>30 101 1410 452 0 0 1440 877 </string>
+	<string>0 9 1438 864 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>61 69 1270 690 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
@@ -1219,7 +1232,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.38800850591715969</real>
+			<real>0.32707794008875729</real>
 			<key>Unlimited Scrollback</key>
 			<false/>
 			<key>Use Bold Font</key>
@@ -1244,6 +1257,10 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>198AD0AF-2FD5-4D0C-99F5-C39E77715345</string>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>516025323.92229599</real>
 	<key>PointerActions</key>
@@ -1281,12 +1298,18 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/shogo/workspace/dotfiles</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
 	<string>https://iterm2.com/appcasts/final.xml?shard=71</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
+	<key>SULastCheckTime</key>
+	<date>2017-05-10T03:48:02Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>iTerm Version</key>
