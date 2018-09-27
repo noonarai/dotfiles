@@ -42,6 +42,8 @@ set laststatus=2    " エディタウィンドウの末尾から2行目にステ
 set wildmenu        " コマンドラインモードで<Tab>キーによるファイル名補完を有効にする
 set showcmd         " 入力中のコマンドを表示
 set isk+=-          " ハイフンを単語に含む
+set hidden
+set nrformats=
 
 """"""""""""""""""""""""""""""
 " vim-easy-align
