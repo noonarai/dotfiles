@@ -12,3 +12,6 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 export LESSCHARSET=utf-8
 export LANG=ja_JP.UTF-8
 
+# go
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
